@@ -22,7 +22,7 @@ The `Montecarlo` class provides methods to approximate the integral of a functio
 
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone git@github.com:Patricia-tech-hub/Montecarlo.git
     cd montecarlo_integration
     ```
 
