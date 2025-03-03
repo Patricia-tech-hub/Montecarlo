@@ -1,0 +1,12 @@
+name: montecarlo-project
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pytest  
+  - numpy
+  - matplotlib.pyplot
+  - pandas
+  - random
+  - scipy
